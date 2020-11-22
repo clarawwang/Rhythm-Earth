@@ -1,0 +1,5 @@
+Your score increases if you catch the objects,
+your health increases if you put
+the objects into the correct bin.
+Both go down if you miss the beat entirely.
+Good luck!

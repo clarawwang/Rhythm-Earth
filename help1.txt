@@ -1,0 +1,6 @@
+In Game Mode, use your left hand to catch the trash
+and your right hand to indicate the bin.
+For single objects, you must open and close
+your left hand around the object.
+For multiple objects, clench your left hand
+and move it through each object.

@@ -1,0 +1,6 @@
+To record your own music, click on the record button.
+Make sure you know how long your music is in seconds.
+There will be typing on the terminal.
+To see high scores, click on the high score button.
+High scores will only look at the Game Mode scores.
+Enjoy the game!

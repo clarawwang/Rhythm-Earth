@@ -1,0 +1,6 @@
+The purpose of this game is to learn how to 
+recycle, compost, and throw away trash.
+There are two modes: Learn Mode and Game Mode
+Use the Learn Mode to figure out where each type of waste goes.
+In Learn Mode, drag and drop the items as they come out 
+to the proper bin.
